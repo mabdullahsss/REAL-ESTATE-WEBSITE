@@ -32,7 +32,7 @@ let myImgsSrc = [
   "images/hero_bg_2.jpg",
   "images/hero_bg_3.jpg",
 ];
-const duration = 10000;
+const duration = 3500;
 
 let counter = 0;
 setInterval(() => {
